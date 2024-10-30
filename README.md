@@ -6,3 +6,5 @@ Requisitos: Python 3.x
 Ejecuta el siguiente comando para probar la aplicación:
 ```bash
 python app.py
+
+## Versión 1.0.0
